@@ -1,0 +1,22 @@
+{
+  "name": "nunothingst",
+  "version": "1.0.1",
+  "description": "\"# nunothing\"",
+  "main": "nunothingst.js",
+  "bin": {
+    "nunothingst" : "node bin/nunothingst.js"
+  },
+  "scripts": {
+    "nunothing": "echo \"Error: no nunothing specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunolp/nunothing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nunolp/nunothing/issues"
+  },
+  "homepage": "https://github.com/nunolp/nunothing#readme"
+}
